@@ -10,4 +10,5 @@ void main()
 		printf("%2d\t",a++);
 
 	printf("first change made\n");
+	printf("second change made\n");
 }	
