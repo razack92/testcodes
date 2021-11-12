@@ -9,5 +9,5 @@ void main()
 	while(b--)
 		printf("%2d\t",a++);
 
-	printf("\n");
+	printf("first change made\n");
 }	
